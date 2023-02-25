@@ -13,8 +13,8 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="">Random Choice Picker</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/15-50JS/tree/main/Random%20Choice%20Picker">Random Choice Picker</a></td>
+      <td><a href="https://random-choice-picker-rouge.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
