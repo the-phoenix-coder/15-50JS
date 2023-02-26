@@ -18,8 +18,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="">Animated Navigation</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/15-50JS/tree/main/Animated%20Nav%20Bar">Animated Navigation</a></td>
+      <td><a href="https://animated-navigation-seven.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
