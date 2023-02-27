@@ -23,8 +23,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">Incrementing Counter</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/15-50JS/tree/main/Increment%20Counter">Incrementing Counter</a></td>
+      <td><a href="https://increment-counter-xi.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
