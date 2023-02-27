@@ -12,4 +12,24 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #8E44AD;
+    color: white;
+    fill: white;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 3rem;
+}
+.card {
+    text-align: center;
+}
+h1 {
+    font-size: 6rem;
+    font-weight: 400;
+}
+svg {
+    width: 50px;
+    aspect-ratio: 1;
 }
